@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andy
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack web development
-- 📫 You can access my temporary site https://andy-dev-99.000webhostapp.com/ and send me a mail in contact section
+- 📫 You can access web development website DevX 360 here https://www.devx360.ro
 
 <!---
 AndyOne99/AndyOne99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
